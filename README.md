@@ -1,6 +1,6 @@
-## 🧱 Devlite Blank Setup
+## 🧱 Devlite Core Setup
 
-To get started with **Devlite Blank**, make sure your `.devcontainer/devcontainer.json` file has the correct workspace folder path.
+To get started with **Devlite Core**, make sure your `.devcontainer/devcontainer.json` file has the correct workspace folder path.
 
 ### 🔧 Step 1: Update `workspaceFolder`
 
@@ -24,5 +24,5 @@ After saving the file:
 2. Reopen the folder.
 3. When prompted, click **“Reopen in Container”**.
 
-That’s it — you’re now running inside **Devlite Blank**:
+That’s it — you’re now running inside **Devlite Core**:
 Ubuntu 22.04, MariaDB, Redis, and subtle perfection.
